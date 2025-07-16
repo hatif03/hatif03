@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hatif_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hatif_15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-hatif-osmani-274150261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-hatif-osmani-274150261" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-hatif-osmani-274150261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hatif-osmani-274150261" height="30" width="40" /></a>
 <a href="https://instagram.com/hatif03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hatif03" height="30" width="40" /></a>
 <a href="https://hashnode.com/mhosm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="mhosm" height="30" width="40" /></a>
 </p>
